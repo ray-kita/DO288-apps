@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "ray-kita-books-dev"
-        STAGE_PROJECT = "ray-kita-books-stage"
+        DEV_PROJECT = "rei-kitamura1-ibm-com-books-dev"
+        STAGE_PROJECT = "rei-kitamura1-ibm-com-books-stage"
         APP_GIT_URL = "https://github.com/ray-kita/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap1.prod.nextcle.com/repository/nodejs"
 
